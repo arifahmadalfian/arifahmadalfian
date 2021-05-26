@@ -1,17 +1,25 @@
-### Hi there , I'am Arif Ahmad Alfian👋
+## Halo! I'm **Arief Ahmad Alfian** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
-<!--
-**arifahmadalfian/arifahmadalfian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am someone with experience working on small projects in information technology. Skilled and creative in Android development, especially Android application development using Kotlin and enthusiastic about UI / UX design. I enjoy working with teams, fast learners, and explorers. 
+<br><br>You can find me on [![LinkedIn][1.1]][1] 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=1C68C5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-df
+## 🌱 Github Values
+  <a href="https://github.com/arifahmadalfian/arifahmadalfian">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifahmadalfian&layout=compact&hide=php,css,html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/arifahmadalfian/arifahmadalfian">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifahmadalfian&show_icons=true&line_height=20&count_private=false&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Arif Ahmad Alfian GitHub Values" />
+  </a>
+
+<!-- icons without padding -->
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (linkedIn)
+
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/arief-ahmad-alfian-879555170/
