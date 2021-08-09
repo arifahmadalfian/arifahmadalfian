@@ -1,6 +1,5 @@
 ## Halo! I'm **Arief Ahmad Alfian** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
-
-I am someone with experience working on small projects in information technology. Skilled and creative in Android development, especially Android application development using Kotlin and enthusiastic about UI / UX design. I enjoy working with teams, fast learners, and explorers. 
+ 
 <br><br>You can find me on [![LinkedIn][1.1]][1] 
 
 ## 🔧 Technologies & Tools
