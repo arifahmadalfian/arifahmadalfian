@@ -18,7 +18,7 @@
   </a>
 
 <!-- icons without padding -->
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (linkedIn)
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- links to your social media accounts -->
 [1]: https://www.linkedin.com/in/arief-ahmad-alfian-879555170/
