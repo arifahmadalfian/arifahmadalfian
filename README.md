@@ -14,7 +14,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifahmadalfian&layout=compact&hide=php,css,html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" />
   </a>
   <a href="https://github.com/arifahmadalfian/arifahmadalfian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifahmadalfian&show_icons=true&line_height=20&count_private=false&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Arif Ahmad Alfian GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifahmadalfian&show_icons=true&line_height=20&count_private=true&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Arif Ahmad Alfian GitHub Values" />
   </a>
 
 <!-- icons without padding -->
